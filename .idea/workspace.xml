@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d40a7f3-a3f1-448c-9a55-a4552d037fef" name="Changes" comment="" />
+    <list default="true" id="4d40a7f3-a3f1-448c-9a55-a4552d037fef" name="Changes" comment="Create Project for tic-tac-toe Game." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,9 +30,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Sumit/Code/tic-tac-toe/src/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -45,12 +60,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719643193080</updated>
-      <workItem from="1719643194123" duration="3000" />
+      <workItem from="1719643194123" duration="463000" />
     </task>
+    <task id="LOCAL-00001" summary="Create Project for tic-tac-toe Game.">
+      <option name="closed" value="true" />
+      <created>1719643307139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719643307139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create Project for tic-tac-toe Game.">
+      <option name="closed" value="true" />
+      <created>1719643515777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719643515777</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Project for tic-tac-toe Game." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Project for tic-tac-toe Game." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
